@@ -1,3 +1,5 @@
+# Copyright (c) 2026 Yao0124
+# SPDX-License-Identifier: MIT
 import requests
 import json
 import argparse
